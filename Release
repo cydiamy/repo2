@@ -1,0 +1,11 @@
+Origin: julioverne's Repo
+Label: julioverne
+Suite: stable
+Version: 1.0
+Codename: julioverne
+Architecture: iphoneos-arm
+Components: main
+Description: julioverne's Tweaks
+MD5Sum:
+ b8d4313af175c5056076b65ecc32ccef 27327 Packages
+ fb94d9f27377cd0fec46ca2119396d8b 4919 Packages.bz2
