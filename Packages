@@ -19,7 +19,7 @@ Architecture: iphoneos-arm
 Version: 0.7
 Section: Tweaks
 Maintainer: Julio
-Depends: firmware (>= 6.0), firmware (<< 11.0), cydia, mobilesubstrate, preferenceloader
+Depends: firmware (>= 6.0)
 Filename: ./com.samsung.beta_0.8_iphoneos-arm.deb
 Size: 1874
 MD5sum: F1FE8972BB77499A164AC2FA8A133D7A
@@ -28,4 +28,3 @@ Description: Tweak Anemone
 Name: Samsung
 Author: julioverne
 Depiction: https://cydiamy.github.io/description.html?id=com.samsung.beta
-
