@@ -1,0 +1,33 @@
+Package: com.julioverne.cypush
+Architecture: iphoneos-arm
+Version: 0.7
+Section: Tweaks
+Maintainer: Julio
+Depends: firmware (>= 6.0), firmware (<< 11.0), cydia, mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.cypush_0.7_iphoneos-arm.deb
+Size: 144198
+MD5sum: aa24716c8f972bc961c21f2811a6d7db
+SHA1: 9a9c81fe65be623a1331c531c5744c3c71dbfa4d
+SHA256: b160a788609b8e33e76191c93431ece4c66d5b6b1f9c5d01f3bfbabdb2f95164
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Push Notifications Background
+Name: CyPush
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
+Depiction: https://cydiamy.github.io/description.html?id=com.julioverne.cypush
+
+Package: com.samsung.beta
+Architecture: iphoneos-arm
+Version: 0.8
+Section: Tweaks
+Maintainer: Faraj_Alqhatani
+Depends: firmware (>= 6.0)
+Filename: ./com.samsung.beta_0.8_iphoneos-arm.deb
+MD5sum: 5a9fc2fb9848040e48813bcaa4b14aa4
+SHA1: 442fd3296d346289698c2c9c4e452c96dec38659
+SHA256: 2a1a7f41a7ebee2e2fca78bcad16f1290ec4e9fffb94d2c37c09e9d3606b6e80
+Homepage: http://twitter.com/ijulioverne
+Description: Tweak Anemone
+Name: Samsung
+Author: julioverne
+Depiction: https://cydiamy.github.io/description.html?id=com.samsung.beta
