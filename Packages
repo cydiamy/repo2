@@ -12,7 +12,7 @@ Description: Cydia Push Notifications Background
 Name: CyPush
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cypush
+Depiction: https://cydiamy.github.io/description.html?id=com.julioverne.cypush
 
 Package: com.samsung.beta
 Architecture: iphoneos-arm
@@ -27,5 +27,5 @@ Homepage: http://twitter.com/ijulioverne
 Description: Tweak Anemone
 Name: Samsung
 Author: julioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cypush
+Depiction: https://cydiamy.github.io/description.html?id=com.samsung.beta
 
